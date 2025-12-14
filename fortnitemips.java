@@ -12,7 +12,7 @@ import java.util.Random;
 public class fortnitemips extends CustomAssembly{
     @Override
     public String getName(){
-        return "Fortnite Mips plswork67";
+        return "Fortnite Mips";
     }
 
     @Override
